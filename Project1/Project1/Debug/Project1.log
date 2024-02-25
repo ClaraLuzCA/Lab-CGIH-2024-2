@@ -1,0 +1,9 @@
+﻿  mainbase.cpp
+C:\Users\clara\OneDrive\Escritorio\Práctica1\Project1\Project1\mainbase.cpp(40,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\clara\OneDrive\Escritorio\Práctica1\Project1\Project1\mainbase.cpp(47,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\clara\OneDrive\Escritorio\Práctica1\Project1\Project1\mainbase.cpp(53,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\clara\OneDrive\Escritorio\Práctica1\Project1\Project1\mainbase.cpp(114,11): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\clara\OneDrive\Escritorio\Práctica1\Project1\Project1\mainbase.cpp(117,11): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\clara\OneDrive\Escritorio\Práctica1\Project1\Project1\mainbase.cpp(121,11): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\clara\OneDrive\Escritorio\Práctica1\Project1\Project1\mainbase.cpp(126,11): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+  Project1.vcxproj -> C:\Users\clara\OneDrive\Escritorio\Práctica1\Project1\Debug\Project1.exe
